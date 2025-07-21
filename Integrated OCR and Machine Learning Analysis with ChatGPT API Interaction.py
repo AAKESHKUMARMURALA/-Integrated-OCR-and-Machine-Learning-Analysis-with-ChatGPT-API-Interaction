@@ -102,7 +102,7 @@ def main(image_path):
     gpt_response = chat_with_gpt(gpt_prompt)
     print("ChatGPT Response:", gpt_response)
 
-# Example usage
+
 image_path = 'path_to_your_image.png'
 main(image_path)
 
